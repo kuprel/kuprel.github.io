@@ -1,0 +1,16 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "39KCW6JF2L.io.kuprel.life",
+          "39KCW6JF2L.io.kuprel.ChatRoomMac",
+          "39KCW6JF2L.io.kuprel.ChatRoomVision"
+        ],
+        "components": [
+          { "/": "/chatroom-site/join.html" }
+        ]
+      }
+    ]
+  }
+}
